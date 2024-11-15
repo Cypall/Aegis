@@ -1,2 +1,3 @@
-# Aegis
- RO Server
+Aegis
+========
+Ragnarok Server
