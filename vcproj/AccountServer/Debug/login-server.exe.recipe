@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\GAME\RO\SERVER\Athena_Base\Hercules_Base\Aegis\login-server.exe</FullPath>
+      <FullPath>C:\RO\Dev\Server\Aegis\login-server.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
