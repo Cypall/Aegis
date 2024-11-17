@@ -1,2 +1,3 @@
+REM AccountServer
 @ECHO OFF
-CALL serv.bat account.exe Login-Server
+CALL serv.bat AccountServer.exe Login-Server

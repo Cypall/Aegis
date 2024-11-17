@@ -1,2 +1,3 @@
+REM ZoneServer
 @ECHO OFF
-CALL serv.bat zone.exe Map-Server
+CALL serv.bat ZoneServer.exe Map-Server

@@ -1,2 +1,3 @@
+REM Inter InterServer
 @ECHO OFF
-CALL serv.bat inter.exe Api-Server
+CALL serv.bat InterServer.exe Api-Server

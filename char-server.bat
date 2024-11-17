@@ -1,2 +1,3 @@
+REM CharacterServer
 @ECHO OFF
-CALL serv.bat character.exe Char-Server
+CALL serv.bat CharacterServer.exe Char-Server
